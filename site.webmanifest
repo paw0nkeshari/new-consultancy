@@ -1,0 +1,8 @@
+{
+  "name": "Ease Consultancy",
+  "short_name": "Ease",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080d22",
+  "theme_color": "#080d22"
+}
